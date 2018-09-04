@@ -17,3 +17,11 @@ end
 def last_element(array)
   []
 end
+
+def last_element(array)
+  []
+end
+
+def last_element(array)
+  []
+end
