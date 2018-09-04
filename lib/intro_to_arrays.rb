@@ -10,6 +10,6 @@ def instantiate_new_array
   []
 end
 
-def instantiate_new_array
+def last_element
   []
 end
